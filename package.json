@@ -2,7 +2,7 @@
   "name": "clara-data",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://clarameera.github.io/portfolio",
+  "homepage": "https://clarameera.github.io/portfolio/",
   "type": "module",
   "scripts": {
     "dev": "vite",
