@@ -15,11 +15,21 @@ function App() {
           <div>
             <h1>Clara Hughes</h1>
             <p>
-              I am a data analyst based in Richmond, VA. I am interested in the
-              intersection of data and social sciences. <br />
+              Hello! I'm Clara Hughes, a Data Analyst based in Richmond, VA. I
+              love the challenge of restructuring raw data into insightful
+              stories that engage, educate, and drive informed decision-making.
+              My background in film production and education have shaped me into
+              a clear and empathetic communicator-- a strength that makes my
+              data insights especially impactful. Super motivated, constantly
+              learning, and highly adaptable, I’m looking for a position that
+              challenges me and values the unique perspective I
+              bring to my analytic work. <br />
               <br /> I am currently seeking new opportunities. Checkout my{" "}
               <a href="https://github.com/clarameera">github</a> and{" "}
-              <a href="https://www.linkedin.com/in/clara-hughes-201657157/">linkedin</a>.
+              <a href="https://www.linkedin.com/in/clara-hughes-201657157/">
+                linkedin
+              </a>
+              .
             </p>
           </div>
         </div>
