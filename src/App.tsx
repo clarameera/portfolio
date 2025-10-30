@@ -1,5 +1,5 @@
 import "./App.css";
-import headshot from "./assets/headshot.png";
+import headshot from "./assets/headshot.jpg";
 import bird from "./assets/bird.png";
 import ufo from "./assets/ufo.png";
 import books from "./assets/books.jpg";
