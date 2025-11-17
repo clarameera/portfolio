@@ -18,7 +18,7 @@ function App() {
               Hello! I'm Clara Hughes, a Data Analyst based in Richmond, VA. I
               love the challenge of restructuring raw data into insightful
               stories that engage, educate, and drive informed decision-making.
-              My background in film production and education have shaped me into
+              My background in film production and education has shaped me into
               a clear and empathetic communicator-- a strength that makes my
               data insights especially impactful. Super motivated, constantly
               learning, and highly adaptable, I’m looking for a position that
